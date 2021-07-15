@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-07-13T21:13:38.331Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="mgNSt9laHFTUlGSrUXHk" version="14.8.6" type="github">
+<mxfile host="app.diagrams.net" modified="2021-07-15T00:25:40.314Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36" etag="kvupFSxmKQk9nOL_zqbU" version="14.8.6" type="github">
   <diagram id="UCe07KlofiEKCu13WOxK" name="Page-1">
-    <mxGraphModel dx="369" dy="1332" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="528" dy="1402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1286,7 +1286,7 @@
         <mxCell id="yMbiN1NeGIRryzF9OByk-389" value="" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="yMbiN1NeGIRryzF9OByk-388" vertex="1">
           <mxGeometry width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yMbiN1NeGIRryzF9OByk-390" value="email VARCHAR(126) NOT NULL UNIQUE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="yMbiN1NeGIRryzF9OByk-388" vertex="1">
+        <mxCell id="yMbiN1NeGIRryzF9OByk-390" value="email text NOT NULL UNIQUE" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="yMbiN1NeGIRryzF9OByk-388" vertex="1">
           <mxGeometry x="30" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yMbiN1NeGIRryzF9OByk-391" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="yMbiN1NeGIRryzF9OByk-381" vertex="1">
